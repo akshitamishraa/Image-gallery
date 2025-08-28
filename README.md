@@ -1,2 +1,2 @@
 # Image-gallery
-This my image store gallery.
+This is my image store gallery.
